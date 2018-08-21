@@ -82,7 +82,7 @@ API to create import Drone application
     "country": "India",
     "pinCode": "567899"
   },
-  "manufacturerNationality": "a",
+  "manufacturerNationality": "Indian",
   "droneTypeId": 1,
   "owner": "Owner",
   "ownerId": 0,
@@ -94,7 +94,7 @@ API to create import Drone application
     "country": "India",
     "pinCode": "568900"
   },
-  "modelName": "BEEPOP",
+  "modelName": "BEEBOP",
   "modelNo": "99",
   "serialNo": "2",
   "dateOfManufacture": "01-01-2009",
