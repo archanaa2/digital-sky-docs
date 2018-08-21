@@ -21,21 +21,21 @@ API to create new Local Drone Acquisition application
 
 ```json
 {
-  "applicant": [logged in user's name as string]
-  "applicantAddress": [logged in user's address]
-  "applicantNationality": [logged in user's nationality as string]
-  "droneTypeId": [id of dronetype selected as long]
-  "manufacturer": [manufacturer property of selected drone as string]
-  "manufacturerNationality": [nationality property of the manufacturer of selected drone as string]
-  "manufacturerAddress": [manufacturer address property of the selected drone],
-  "modelName": [modelName property of the selected drone as string]
-  "modelNo": [modelNo property of the selected drone as string]
-  "serialNo": [serialNo property of the selected drone as string]
-  "dateOfManufacture": [dateOfManufacture property of the selected drone as date]
-  "wingType": [wingType property of the selected drone which is an enum [FIXED, ROTARY]]
-  "maxTakeOffWeight": [maxTakeOffWeight property of the selected drone as float]
-  "maxHeightAttainable": [maxHeightAttainable property of the selected drone as float],
-  "noOfDrones": [valid number]
+  "applicant": "[logged in user's name as string]",
+  "applicantAddress": "[logged in user's address]",
+  "applicantNationality": "[logged in user's nationality as string]",
+  "droneTypeId": "[id of dronetype selected as long]",
+  "manufacturer": "[manufacturer property of selected drone as string]",
+  "manufacturerNationality": "[nationality property of the manufacturer of selected drone as string]",
+  "manufacturerAddress": "[manufacturer address property of the selected drone]",
+  "modelName": "[modelName property of the selected drone as string]",
+  "modelNo": "[modelNo property of the selected drone as string]",
+  "serialNo": "[serialNo property of the selected drone as string]",
+  "dateOfManufacture": "[dateOfManufacture property of the selected drone as date]",
+  "wingType": "[wingType property of the selected drone which is an enum [FIXED, ROTARY]]",
+  "maxTakeOffWeight": "[maxTakeOffWeight property of the selected drone as float]",
+  "maxHeightAttainable": "[maxHeightAttainable property of the selected drone as float]",
+  "noOfDrones": "[valid number]"
 }
 ```
 
