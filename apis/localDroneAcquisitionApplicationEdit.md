@@ -62,7 +62,7 @@ API to update local drone Acquisition application
     "country": "India",
     "pinCode": "560078"
   },
-  "applicantEmail": operatora@mnc.com,
+  "applicantEmail": "operatora@mnc.com",
   "applicantPhone": 9999999999,
   "applicantNationality": "Indian",
   "applicantType": null,
