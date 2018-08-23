@@ -44,7 +44,7 @@ API to create UIN application
   "maxTakeOffWeight": "[maxTakeOffWeight property of the selected drone as float]",
   "maxHeightAttainable": "[maxHeightAttainable property of the selected drone as float]",
   "compatiblePayload": "[compatiblePayload property of the selected drone as string]"
-  "droneCategoryType": "[droneCategory property of the selected drone which is one of ["MICRO", "SMALL", "MEDIUM", "LARGE"]]",
+  "droneCategoryType": "[droneCategory property of the selected drone which is one of [MICRO, SMALL, MEDIUM, LARGE]",
   "purposeOfOperation": "[purposeOfOperation property of the seleced drone as string]",
   "engineType": "[engineType property of selected drone as string]",
   "enginePower": "[enginePower property of selected drone as float]",
@@ -59,7 +59,7 @@ API to create UIN application
     "length": "[length of selected drone as float]",
     "breadth": "[breadth of selected drone as float]",
     "height": "[height of selected drone as float]"
-  },
+  }
 }
 ```
 
@@ -102,12 +102,12 @@ API to create UIN application
   "manufacturer": "Beebop",
   "manufacturerId": 0,
   "manufacturerAddress": {
-    "lineOne": "a",
-    "lineTwo": "a",
-    "city": "aa",
-    "state": "a",
-    "country": "a",
-    "pinCode": null
+    "lineOne": "House No",
+    "lineTwo": "",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "pinCode": 560078
   },
   "manufacturerNationality": "a",
   "modelName": "BEEPOP",
