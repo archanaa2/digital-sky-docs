@@ -18,7 +18,6 @@ API to list all local drone acquisition applications for current user
 
 ```json
 [{
-	{
   "id": "5b7be786e5a4c9089e1506e9",
   "createdDate": "21-08-2018",
   "applicationNumber": null,
@@ -80,7 +79,6 @@ API to list all local drone acquisition applications for current user
   "securityClearanceDocName": "securityClearanceDoc.jpg",
   "applicantCategory": null,
   "acquisitionMode": "LEASE"
-}
 }]
 ```
 
