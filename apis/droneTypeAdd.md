@@ -12,8 +12,6 @@ API for admin to create drone type/model
 
 **Data constraints**
 
-** uinApplication**
-
 ```json
 {
   "manufacturer": "[manufacturer of selected drone of type string obtained from drone details saved in the system]",
