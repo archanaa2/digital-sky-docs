@@ -43,7 +43,7 @@ API to create UIN application
   "wingType": "[wingType property of the selected drone which is an enum [FIXED, ROTARY]]",
   "maxTakeOffWeight": "[maxTakeOffWeight property of the selected drone as float]",
   "maxHeightAttainable": "[maxHeightAttainable property of the selected drone as float]",
-  "compatiblePayload": "[compatiblePayload property of the selected drone as string]"
+  "compatiblePayload": "[compatiblePayload property of the selected drone as string]",
   "droneCategoryType": "[droneCategory property of the selected drone which is one of [MICRO, SMALL, MEDIUM, LARGE]",
   "purposeOfOperation": "[purposeOfOperation property of the seleced drone as string]",
   "engineType": "[engineType property of selected drone as string]",
