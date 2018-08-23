@@ -1,6 +1,6 @@
 # Local Drone Acquisition Applications List
 
-API to list all LocalDroneAcquiistion applications for admin
+API for admin to list all LocalDroneAcquisition applications which are not in DRAFT state
 
 **URL** : `/api/applicationForm/localDroneAcquisitionApplication/getAll`
 
